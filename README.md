@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Diksha Kunwar 👋
 
-<!--
-**dikshakunwar/dikshakunwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer | Java Developer | MERN Stack Enthusiast
 
-Here are some ideas to get you started:
+I build scalable web applications, solve Data Structures & Algorithms problems, and enjoy creating solutions that make a real-world impact.
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech Computer Science student at Graphic Era Hill University (2023–2027)
+
+💻 Passionate about Full-Stack Development and Backend Engineering
+
+☕ Strong foundation in Java, Data Structures & Algorithms
+
+🧩 Solved 450+ LeetCode problems
+
+🏆 Winner of Webathon 3.0
+
+🌱 Currently learning System Design and improving backend architecture skills
+
+💼 Open to Software Engineering and Full-Stack Development internship opportunities
