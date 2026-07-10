@@ -18,3 +18,15 @@ I build scalable web applications, solve Data Structures & Algorithms problems, 
 🌱 Currently learning System Design and improving backend architecture skills
 
 💼 Open to Software Engineering and Full-Stack Development internship opportunities
+
+## 🛠 Tech Stack
+
+Languages: Java, JavaScript, C
+
+Frontend: React, HTML, CSS, Tailwind CSS
+
+Backend: Node.js, Express.js
+
+Database: MongoDB
+
+Tools: Git, GitHub, Postman, VS Code, AWS, Mapbox
